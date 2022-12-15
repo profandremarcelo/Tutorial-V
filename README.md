@@ -1,2 +1,4 @@
 # Tutorial-V
-Dataset
+Dataset to run the experiment of chemometrics from the article found in the link: https://www.scielo.br/j/qn/a/Bq7xdFNQ8dsKrxhPCbsHYPc/?lang=pt
+
+DIDACTIC EXPERIMENT OF CHEMOMETRICS FOR THE CLASSIFICATION OF EDIBLE VEGETABLE OILS BY FOURIER TRANSFORM INFRARED SPECTROSCOPY AND PARTIAL LEAST SQUARES DISCRIMINANT ANALYSIS: A TUTORIAL, PART V
